@@ -73,7 +73,8 @@ How to import from a text/csv file:
 date;account;category;total;currency;description;transfer
 2. go to Settings -> DATA IMPORT -> Open File
 3. choose the text file or csv file to import
-Example import file:
+
+####Example import file:
 
 ![](public/exampleCsv.png)
 
