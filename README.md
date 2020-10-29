@@ -74,11 +74,11 @@ date;account;category;total;currency;description;transfer
 2. go to Settings -> DATA IMPORT -> Open File
 3. choose the text file or csv file to import
 
-###### Example File Transfer Between Accounts:
+###### Example File Without Transfers:
 
 ![](public/exampleCsv.png)
 
-###### Example File Import With Transfer Between Accounts:
+###### Example File With Transfer Between Accounts:
 
 ![](public/transferCsv.png)
 
